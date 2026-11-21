@@ -49,7 +49,7 @@ São mais de 20 mil textos.
   Lycoris, Fatal Bullet e Hollow Realization), sempre conferidos para fazer sentido em português.
 - **Cada personagem fala do seu jeito:** o Kirito, a Leafa ("maninho"), a Yui ("papis"), a Asuna e todo o grupo, com o
   gênero certo em cada fala, conferido pelo japonês.
-- **Interface:** PV/PM no lugar de HP/MP e números no padrão brasileiro.
+- **Siglas como no jogo:** HP, MP, SP... ficam como estão desenhadas nos ícones do jogo (como na versão japonesa), e o texto usa as mesmas siglas, explicadas no tutorial. Números no padrão brasileiro.
 
 ## 🚫 O que não foi traduzido (de propósito)
 
