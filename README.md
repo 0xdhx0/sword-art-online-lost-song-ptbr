@@ -110,6 +110,7 @@ capítulo ou lugar e, se puder, mande um print. Toda correção de português ta
 ## 🙏 Créditos
 
 - **Tradução, revisão e ferramentas:** [DHverso](https://github.com/dhverso).
+- **Acompanhe o DHverso:** [site](https://dhverso.com.br), [YouTube](https://www.youtube.com/@dhversobr) e [X](https://x.com/dhverso).
 - **Fontes livres** usadas nas imagens traduzidas (licença OFL).
 - **xdelta3** (licença GPL), usado para aplicar os patches.
 
